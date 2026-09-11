@@ -24,7 +24,7 @@ The analysis is presented through an interactive Power BI dashboard with KPI car
 
 ---
 ## 📊 Dashboard Preview
-
+https://github.com/Snehakanojiya/HR_Attrition_Analysis/blob/main/hr_attrition.png
 
 ## 💡 Business Problem
 
